@@ -1,0 +1,45 @@
+[
+  {
+    "package": "bmetr"
+  },
+  {
+    "package": "bspm",
+    "oncran": true
+  },
+  {
+    "package": "flexiblas",
+    "oncran": true
+  },
+  {
+    "package": "RcppXPtrUtils",
+    "oncran": true
+  },
+  {
+    "package": "constants",
+    "oncran": true
+  },
+  {
+    "package": "errors",
+    "oncran": true
+  },
+  {
+    "package": "quantities",
+    "oncran": true
+  },
+  {
+    "package": "units",
+    "oncran": true
+  },
+  {
+    "package": "simmer",
+    "oncran": true
+  },
+  {
+    "package": "simmer.bricks",
+    "oncran": true
+  },
+  {
+    "package": "simmer.plot",
+    "oncran": true
+  }
+]
