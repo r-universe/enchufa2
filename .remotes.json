@@ -4,5 +4,11 @@
     "url": "https://github.com/r-simmer/simmer",
     "via": ["simmer.bricks"],
     "from": "simmer.bricks"
+  },
+  {
+    "package": "simmer",
+    "url": "https://github.com/r-simmer/simmer",
+    "via": ["simmer.plot"],
+    "from": "simmer.plot"
   }
 ]
