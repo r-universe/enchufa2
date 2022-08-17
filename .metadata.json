@@ -1,10 +1,14 @@
 [
   {
-    "package": "bmetr"
+    "package": "bspm",
+    "oncran": false
   },
   {
-    "package": "bspm",
-    "oncran": true
+    "package": "rspm",
+    "oncran": false
+  },
+  {
+    "package": "bmetr"
   },
   {
     "package": "flexiblas",

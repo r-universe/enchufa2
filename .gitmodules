@@ -3,14 +3,19 @@
 	url = https://github.com/enchufa2/universe
 	shallow = true
 	branch = HEAD
+[submodule "bspm"]
+	path = bspm
+	url = https://enchufa2.github.io/bspm
+	shallow = true
+	registered = true
+[submodule "rspm"]
+	path = rspm
+	url = https://enchufa2.github.io/rspm
+	shallow = true
+	registered = true
 [submodule "bmetr"]
 	path = bmetr
 	url = https://github.com/Enchufa2/bmetr
-	shallow = true
-	registered = true
-[submodule "bspm"]
-	path = bspm
-	url = https://github.com/Enchufa2/bspm
 	shallow = true
 	registered = true
 [submodule "flexiblas"]
