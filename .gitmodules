@@ -2,33 +2,30 @@
 	path = .registry
 	url = https://github.com/enchufa2/universe
 	branch = HEAD
-[submodule "bspm"]
-	path = bspm
-	url = https://enchufa2.github.io/bspm
-[submodule "rspm"]
-	path = rspm
-	url = https://enchufa2.github.io/rspm
-[submodule "bmetr"]
-	path = bmetr
-	url = https://github.com/Enchufa2/bmetr
-[submodule "flexiblas"]
-	path = flexiblas
-	url = https://github.com/Enchufa2/r-flexiblas
 [submodule "RcppXPtrUtils"]
 	path = RcppXPtrUtils
 	url = https://github.com/Enchufa2/RcppXPtrUtils
+[submodule "bmetr"]
+	path = bmetr
+	url = https://github.com/Enchufa2/bmetr
+[submodule "bspm"]
+	path = bspm
+	url = https://enchufa2.github.io/bspm
 [submodule "constants"]
 	path = constants
 	url = https://github.com/r-quantities/constants
 [submodule "errors"]
 	path = errors
 	url = https://github.com/r-quantities/errors
+[submodule "flexiblas"]
+	path = flexiblas
+	url = https://github.com/Enchufa2/r-flexiblas
 [submodule "quantities"]
 	path = quantities
 	url = https://github.com/r-quantities/quantities
-[submodule "units"]
-	path = units
-	url = https://github.com/r-quantities/units
+[submodule "rspm"]
+	path = rspm
+	url = https://enchufa2.github.io/rspm
 [submodule "simmer"]
 	path = simmer
 	url = https://github.com/r-simmer/simmer
@@ -38,3 +35,6 @@
 [submodule "simmer.plot"]
 	path = simmer.plot
 	url = https://github.com/r-simmer/simmer.plot
+[submodule "units"]
+	path = units
+	url = https://github.com/r-quantities/units
