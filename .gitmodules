@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/enchufa2/universe
+	url = https://github.com/enchufa2/enchufa2.r-universe.dev
 	branch = HEAD
 [submodule "RcppXPtrUtils"]
 	path = RcppXPtrUtils
