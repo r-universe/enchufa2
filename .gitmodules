@@ -10,7 +10,7 @@
 	url = https://github.com/Enchufa2/bmetr
 [submodule "bspm"]
 	path = bspm
-	url = https://enchufa2.github.io/bspm
+	url = https://github.com/cran4linux/bspm
 [submodule "constants"]
 	path = constants
 	url = https://github.com/r-quantities/constants
@@ -25,7 +25,7 @@
 	url = https://github.com/r-quantities/quantities
 [submodule "rspm"]
 	path = rspm
-	url = https://enchufa2.github.io/rspm
+	url = https://github.com/cran4linux/rspm
 [submodule "simmer"]
 	path = simmer
 	url = https://github.com/r-simmer/simmer
